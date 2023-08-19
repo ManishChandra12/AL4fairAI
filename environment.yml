@@ -1,0 +1,4 @@
+name: alfair
+channels:
+  - defaults
+prefix: /users/grad/manish/miniconda3/envs/alfair
